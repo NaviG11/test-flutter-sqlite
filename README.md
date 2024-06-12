@@ -1,12 +1,11 @@
-# database
+# PROYECTO INF 325 FLUTTER AND SQLITE
 
-A new Flutter project TODO.
+A new Flutter project TODO for proyect personal.
 
 ## Getting Started
 
-Flutter application for Class.
+<https://github.com/NaviG11/test-flutter-sqlite.git>
 
-A few resources to get you started if this is your first Flutter project:
+Author <ivancarlosqp@gmail.com>
 
-Author ivancarlosqp@gmail.com
 Code: 365
